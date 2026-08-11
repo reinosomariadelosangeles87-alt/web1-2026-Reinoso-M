@@ -7,7 +7,7 @@
 
 ## Sobre mí
 
-Me parece muy interesante programación web, y todo lo que esta conyeba con las interfaces y el tema de HTML, me gustaria construir un juego o algo en el navegador y he trabajado un poco con el lenguaje java
+Me parece muy interesante programación web, y todo lo que esta conlleba con las interfaces y el tema de HTML, me gustaria construir un juego o algo en el navegador y he trabajado un poco con el lenguaje java
 
 ## Progreso de la campaña
 
