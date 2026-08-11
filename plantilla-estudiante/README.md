@@ -1,20 +1,19 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- tu nombre completo -->
+**Nombre:** Maria de Los Angeles Reinoso Adames
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- @tuusuario -->
+**Usuario de GitHub:** @reinosomariadelosangeles87-alt
 
 ## Sobre mí
 
-<!-- Dos o tres líneas: qué te interesa de la programación web, qué juego te
-     gustaría construir si pudieras elegir, con qué lenguajes ya trabajaste. -->
+Me parece muy interesante programación web, y todo lo que esta conyeba con las interfaces y el tema de HTML, me gustaria construir un juego o algo en el navegador y he trabajado un poco con el lenguaje java
 
 ## Progreso de la campaña
 
 | # | Misión | Estado | XP | Repositorio | Jugar |
 |---|---|---|---|---|---|
-| 00 | Registro de jugador | ⬜ | /25 | [código](./practica-00-registro) | — |
+| 00 | Registro de jugador | ⬜ | /25 | [código](https://github.com/reinosomariadelosangeles87-alt/web1-2026-Reinoso-M)  | — |
 | 01 | Ficha de personaje | ⬜ | /100 | [código](./practica-01-ficha) | — |
 | 02 | Tablero adaptable | ⬜ | /100 | [código](./practica-02-tablero) | — |
 | 03 | Juego de memoria | ⬜ | /100 | [código](./practica-03-memoria) | — |
