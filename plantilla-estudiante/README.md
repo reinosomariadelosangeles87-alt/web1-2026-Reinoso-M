@@ -14,7 +14,7 @@ Me parece muy interesante programación web, y todo lo que esta conlleba con las
 | # | Misión | Estado | XP | Repositorio | Jugar |
 |---|---|---|---|---|---|
 | 00 | Registro de jugador | ⬜ | /25 | [código](https://github.com/reinosomariadelosangeles87-alt/web1-2026-Reinoso-M)  | — |
-| 01 | Ficha de personaje | ⬜ | /100 | [código](./practica-01-ficha) | — |
+| 01 | Ficha de personaje | ⬜ | /100 |[código](misiones/01-ficha-personaje/index.html) | [▶️](misiones/01-ficha-personaje/index.html) | — |
 | 02 | Tablero adaptable | ⬜ | /100 | [código](./practica-02-tablero) | — |
 | 03 | Juego de memoria | ⬜ | /100 | [código](./practica-03-memoria) | — |
 | 04 | Trivia con API | ⬜ | /100 | [código](./practica-04-trivia) | — |
