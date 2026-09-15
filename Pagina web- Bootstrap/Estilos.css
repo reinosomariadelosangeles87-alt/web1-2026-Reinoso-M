@@ -1,0 +1,45 @@
+/* ===== ESTILOS PERSONALIZADOS - LUZ Y VERDAD ===== */
+
+/* Desplazamiento suave al hacer clic en el navbar */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Fuente general más elegante */
+body {
+  font-family: 'Georgia', serif;
+}
+
+/* Banner del versículo destacado */
+.banner-versiculo {
+  background-color: #8b6914;
+  color: #ffffff;
+}
+
+/* Tarjetas de versículos */
+.card-versiculo {
+  border: 2px solid #c9a227;
+}
+
+/* Referencias bíblicas en dorado */
+.referencia {
+  color: #c9a227;
+  font-weight: bold;
+}
+
+/* Botones personalizados en dorado */
+.btn-dorado {
+  background-color: #c9a227;
+  color: #ffffff;
+  border: none;
+}
+
+.btn-dorado:hover {
+  background-color: #a8861f;
+  color: #ffffff;
+}
+/* Hacer que los pósters tengan la misma altura y se recorten bien */
+.card-img-top {
+  height: 400px;
+  object-fit: cover;
+}
